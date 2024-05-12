@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" type="plugin" group="Content">
+	<name>nl2br</name>
+	<author>Sebastien LHUILLIER</author>
+	<creationDate>Janvier 2023</creationDate>
+	<copyright>Sébastien LHUILLIER</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sebastien.lhuillier+joomla@gmail.com</authorEmail>
+	<authorUrl>www.sebastien-lhuillier.com</authorUrl>
+	<version>1.0</version>
+	<description>Ce plugin transforme tous les retour chariot d'un article en tag html BR</description>
+	<files>
+		<filename plugin="nl2br">nl2br.php</filename>
+		<filename>nl2br.xml</filename>			
+	</files>	
+	
+</extension>
